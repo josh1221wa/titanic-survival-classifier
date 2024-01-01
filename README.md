@@ -38,24 +38,24 @@ This command will install all the necessary packages listed in the `requirements
 
 ### 1. Data Cleaning
 
-    In this step, the unnecessary columns are dropped and the missing and duplicate values are handled.
+In this step, the unnecessary columns are dropped and the missing and duplicate values are handled.
 
 ### 2. Exploratory Data Analysis
 
-    In this step, the distribution of features is visualized and their relationships with survival are analyzed.
+In this step, the distribution of features is visualized and their relationships with survival are analyzed.
 
 ### 3. Data Preprocessing
 
-    In this step, the categorical features are encoded, the outliers are dropped and the dataset is split into training and test sets. The numerical data is also scaled using StandardScaler.
+In this step, the categorical features are encoded, the outliers are dropped and the dataset is split into training and test sets. The numerical data is also scaled using StandardScaler.
 
 
 ### 4. Model Training and Testing
 
-    In this step, the Decision Tree classifier is trained on the preprocessed data. The model is then evaluated using various metrics and the confusion matrix.
+In this step, the Decision Tree classifier is trained on the preprocessed data. The model is then evaluated using various metrics and the confusion matrix.
 
 ### 5. Decision Tree Visualization
     
-        In this step, the Decision Tree classifier is visualized using the graphviz library.
+In this step, the Decision Tree classifier is visualized using the graphviz library.
 
 ## Results
 
